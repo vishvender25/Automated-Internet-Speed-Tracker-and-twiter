@@ -42,16 +42,3 @@ To deploy this project run
 ```
 
 
-## Demo
-
-Insert gif or link to demo
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
